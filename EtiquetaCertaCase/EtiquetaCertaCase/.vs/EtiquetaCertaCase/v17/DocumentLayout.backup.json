@@ -1,0 +1,237 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joaoc\\OneDrive\\Documentos\\Project\\EtiquetaCertaCase\\EtiquetaCertaCase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA6E9DA6-F800-4246-ADAA-8709C3CCE98A}|EtiquetaCertaCase.API\\EtiquetaCertaCase.API.csproj|c:\\users\\joaoc\\onedrive\\documentos\\project\\etiquetacertacase\\etiquetacertacase\\etiquetacertacase.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA6E9DA6-F800-4246-ADAA-8709C3CCE98A}|EtiquetaCertaCase.API\\EtiquetaCertaCase.API.csproj|solutionrelative:etiquetacertacase.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA6E9DA6-F800-4246-ADAA-8709C3CCE98A}|EtiquetaCertaCase.API\\EtiquetaCertaCase.API.csproj|c:\\users\\joaoc\\onedrive\\documentos\\project\\etiquetacertacase\\etiquetacertacase\\etiquetacertacase.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA6E9DA6-F800-4246-ADAA-8709C3CCE98A}|EtiquetaCertaCase.API\\EtiquetaCertaCase.API.csproj|solutionrelative:etiquetacertacase.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA6E9DA6-F800-4246-ADAA-8709C3CCE98A}|EtiquetaCertaCase.API\\EtiquetaCertaCase.API.csproj|c:\\users\\joaoc\\onedrive\\documentos\\project\\etiquetacertacase\\etiquetacertacase\\etiquetacertacase.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA6E9DA6-F800-4246-ADAA-8709C3CCE98A}|EtiquetaCertaCase.API\\EtiquetaCertaCase.API.csproj|solutionrelative:etiquetacertacase.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA6E9DA6-F800-4246-ADAA-8709C3CCE98A}|EtiquetaCertaCase.API\\EtiquetaCertaCase.API.csproj|c:\\users\\joaoc\\onedrive\\documentos\\project\\etiquetacertacase\\etiquetacertacase\\etiquetacertacase.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA6E9DA6-F800-4246-ADAA-8709C3CCE98A}|EtiquetaCertaCase.API\\EtiquetaCertaCase.API.csproj|solutionrelative:etiquetacertacase.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6F341F-17E2-4007-BDB1-189E12336FF6}|EtiquetaCertaCase.Core\\EtiquetaCertaCase.Core.csproj|c:\\users\\joaoc\\onedrive\\documentos\\project\\etiquetacertacase\\etiquetacertacase\\etiquetacertacase.core\\schema\\productschema\\request\\getproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED6F341F-17E2-4007-BDB1-189E12336FF6}|EtiquetaCertaCase.Core\\EtiquetaCertaCase.Core.csproj|solutionrelative:etiquetacertacase.core\\schema\\productschema\\request\\getproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C099A5-9733-40AB-A0F5-6C9764CF5158}|EtiquetaCertaCase.Infrastructure\\EtiquetaCertaCase.Infrastructure.csproj|c:\\users\\joaoc\\onedrive\\documentos\\project\\etiquetacertacase\\etiquetacertacase\\etiquetacertacase.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8C099A5-9733-40AB-A0F5-6C9764CF5158}|EtiquetaCertaCase.Infrastructure\\EtiquetaCertaCase.Infrastructure.csproj|solutionrelative:etiquetacertacase.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6F341F-17E2-4007-BDB1-189E12336FF6}|EtiquetaCertaCase.Core\\EtiquetaCertaCase.Core.csproj|c:\\users\\joaoc\\onedrive\\documentos\\project\\etiquetacertacase\\etiquetacertacase\\etiquetacertacase.core\\mapper\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED6F341F-17E2-4007-BDB1-189E12336FF6}|EtiquetaCertaCase.Core\\EtiquetaCertaCase.Core.csproj|solutionrelative:etiquetacertacase.core\\mapper\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6F341F-17E2-4007-BDB1-189E12336FF6}|EtiquetaCertaCase.Core\\EtiquetaCertaCase.Core.csproj|c:\\users\\joaoc\\onedrive\\documentos\\project\\etiquetacertacase\\etiquetacertacase\\etiquetacertacase.core\\schema\\productschema\\response\\productresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED6F341F-17E2-4007-BDB1-189E12336FF6}|EtiquetaCertaCase.Core\\EtiquetaCertaCase.Core.csproj|solutionrelative:etiquetacertacase.core\\schema\\productschema\\response\\productresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17C66A8F-56EF-4B65-BA9E-AF76E0797C9A}|EtiquetaCertaCase.Domain\\EtiquetaCertaCase.Domain.csproj|c:\\users\\joaoc\\onedrive\\documentos\\project\\etiquetacertacase\\etiquetacertacase\\etiquetacertacase.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17C66A8F-56EF-4B65-BA9E-AF76E0797C9A}|EtiquetaCertaCase.Domain\\EtiquetaCertaCase.Domain.csproj|solutionrelative:etiquetacertacase.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6F341F-17E2-4007-BDB1-189E12336FF6}|EtiquetaCertaCase.Core\\EtiquetaCertaCase.Core.csproj|c:\\users\\joaoc\\onedrive\\documentos\\project\\etiquetacertacase\\etiquetacertacase\\etiquetacertacase.core\\schema\\paginatedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED6F341F-17E2-4007-BDB1-189E12336FF6}|EtiquetaCertaCase.Core\\EtiquetaCertaCase.Core.csproj|solutionrelative:etiquetacertacase.core\\schema\\paginatedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6F341F-17E2-4007-BDB1-189E12336FF6}|EtiquetaCertaCase.Core\\EtiquetaCertaCase.Core.csproj|c:\\users\\joaoc\\onedrive\\documentos\\project\\etiquetacertacase\\etiquetacertacase\\etiquetacertacase.core\\schema\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED6F341F-17E2-4007-BDB1-189E12336FF6}|EtiquetaCertaCase.Core\\EtiquetaCertaCase.Core.csproj|solutionrelative:etiquetacertacase.core\\schema\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\joaoc\\OneDrive\\Documentos\\Project\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "EtiquetaCertaCase.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\joaoc\\OneDrive\\Documentos\\Project\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "EtiquetaCertaCase.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T20:41:22.476Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\joaoc\\OneDrive\\Documentos\\Project\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase.API\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "EtiquetaCertaCase.API\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\joaoc\\OneDrive\\Documentos\\Project\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase.API\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "EtiquetaCertaCase.API\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T21:18:20.379Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\joaoc\\OneDrive\\Documentos\\Project\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EtiquetaCertaCase.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\joaoc\\OneDrive\\Documentos\\Project\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EtiquetaCertaCase.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-11T21:47:03.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\joaoc\\OneDrive\\Documentos\\Project\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "EtiquetaCertaCase.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\joaoc\\OneDrive\\Documentos\\Project\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase.API\\appsettings.Development.json",
+              "RelativeToolTip": "EtiquetaCertaCase.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-11T21:33:18.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\joaoc\\OneDrive\\Documentos\\Project\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase.API\\Startup.cs",
+              "RelativeDocumentMoniker": "EtiquetaCertaCase.API\\Startup.cs",
+              "ToolTip": "C:\\Users\\joaoc\\OneDrive\\Documentos\\Project\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase.API\\Startup.cs",
+              "RelativeToolTip": "EtiquetaCertaCase.API\\Startup.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAA1wDsAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T21:25:52.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetProductRequest.cs",
+              "DocumentMoniker": "C:\\Users\\joaoc\\OneDrive\\Documentos\\Project\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase.Core\\Schema\\ProductSchema\\Request\\GetProductRequest.cs",
+              "RelativeDocumentMoniker": "EtiquetaCertaCase.Core\\Schema\\ProductSchema\\Request\\GetProductRequest.cs",
+              "ToolTip": "C:\\Users\\joaoc\\OneDrive\\Documentos\\Project\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase.Core\\Schema\\ProductSchema\\Request\\GetProductRequest.cs",
+              "RelativeToolTip": "EtiquetaCertaCase.Core\\Schema\\ProductSchema\\Request\\GetProductRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T21:24:18.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductProfile.cs",
+              "DocumentMoniker": "C:\\Users\\joaoc\\OneDrive\\Documentos\\Project\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase.Core\\Mapper\\ProductProfile.cs",
+              "RelativeDocumentMoniker": "EtiquetaCertaCase.Core\\Mapper\\ProductProfile.cs",
+              "ToolTip": "C:\\Users\\joaoc\\OneDrive\\Documentos\\Project\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase.Core\\Mapper\\ProductProfile.cs",
+              "RelativeToolTip": "EtiquetaCertaCase.Core\\Mapper\\ProductProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T21:21:55.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\joaoc\\OneDrive\\Documentos\\Project\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "EtiquetaCertaCase.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\joaoc\\OneDrive\\Documentos\\Project\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "EtiquetaCertaCase.Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T21:21:32.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductResponse.cs",
+              "DocumentMoniker": "C:\\Users\\joaoc\\OneDrive\\Documentos\\Project\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase.Core\\Schema\\ProductSchema\\Response\\ProductResponse.cs",
+              "RelativeDocumentMoniker": "EtiquetaCertaCase.Core\\Schema\\ProductSchema\\Response\\ProductResponse.cs",
+              "ToolTip": "C:\\Users\\joaoc\\OneDrive\\Documentos\\Project\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase.Core\\Schema\\ProductSchema\\Response\\ProductResponse.cs",
+              "RelativeToolTip": "EtiquetaCertaCase.Core\\Schema\\ProductSchema\\Response\\ProductResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T21:21:13.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PaginatedResult.cs",
+              "DocumentMoniker": "C:\\Users\\joaoc\\OneDrive\\Documentos\\Project\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase.Core\\Schema\\PaginatedResult.cs",
+              "RelativeDocumentMoniker": "EtiquetaCertaCase.Core\\Schema\\PaginatedResult.cs",
+              "ToolTip": "C:\\Users\\joaoc\\OneDrive\\Documentos\\Project\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase.Core\\Schema\\PaginatedResult.cs",
+              "RelativeToolTip": "EtiquetaCertaCase.Core\\Schema\\PaginatedResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T21:19:57.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\joaoc\\OneDrive\\Documentos\\Project\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase.Core\\Schema\\Result.cs",
+              "RelativeDocumentMoniker": "EtiquetaCertaCase.Core\\Schema\\Result.cs",
+              "ToolTip": "C:\\Users\\joaoc\\OneDrive\\Documentos\\Project\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase.Core\\Schema\\Result.cs",
+              "RelativeToolTip": "EtiquetaCertaCase.Core\\Schema\\Result.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T21:19:06.653Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

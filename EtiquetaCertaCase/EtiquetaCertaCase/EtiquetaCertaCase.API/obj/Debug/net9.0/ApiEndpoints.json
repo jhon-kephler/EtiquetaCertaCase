@@ -1,0 +1,126 @@
+[
+  {
+    "ContainingType": "EtiquetaCertaCase.API.Controllers.ProductController",
+    "Method": "Get",
+    "RelativePath": "api/product/Product",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "EtiquetaCertaCase.Core.Schema.Result\u00601[[EtiquetaCertaCase.Core.Schema.ProductSchema.SearchSchema.Response.ProductResponse, EtiquetaCertaCase.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "EtiquetaCertaCase.API.Controllers.ProductController",
+    "Method": "Post",
+    "RelativePath": "api/product/Product",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "EtiquetaCertaCase.Core.Schema.ProductSchema.ManageSchema.Request.CreateProductRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "EtiquetaCertaCase.Core.Schema.Result",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "EtiquetaCertaCase.API.Controllers.ProductController",
+    "Method": "Put",
+    "RelativePath": "api/product/Product",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "EtiquetaCertaCase.Core.Schema.ProductSchema.ManageSchema.Request.UpdateProductRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "EtiquetaCertaCase.Core.Schema.Result",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "EtiquetaCertaCase.API.Controllers.ProductController",
+    "Method": "Delete",
+    "RelativePath": "api/product/Product",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "EtiquetaCertaCase.Core.Schema.ProductSchema.ManageSchema.Request.DeleteProductRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "EtiquetaCertaCase.Core.Schema.Result",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "EtiquetaCertaCase.API.Controllers.ProductController",
+    "Method": "GetList",
+    "RelativePath": "api/product/Product/List",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "EtiquetaCertaCase.Core.Schema.PaginatedResult\u00601[[EtiquetaCertaCase.Core.Schema.ProductSchema.SearchSchema.Response.ProductResponse, EtiquetaCertaCase.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
