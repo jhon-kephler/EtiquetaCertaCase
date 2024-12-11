@@ -24,7 +24,7 @@ namespace EtiquetaCertaCase.Data
                 entity.HasKey(e => e.Id);
                 entity.Property(e => e.Id).HasColumnName("id");
                 entity.Property(e => e.Name).HasColumnName("name");
-                entity.Property(e => e.Name).HasColumnName("category");
+                entity.Property(e => e.Category).HasColumnName("category");
                 entity.Property(e => e.Price).HasColumnName("price");
             });
         }

@@ -38,7 +38,7 @@ namespace EtiquetaCertaCase.API.Controllers
                 _mediator.Send(request);
 
         [HttpDelete()]
-        public Task<Result> Delete(DeleteProductRequest request) =>
+        public Task<Result> Delete([FromQuery] DeleteProductRequest request) =>
                 _mediator.Send(request);
     }
 }

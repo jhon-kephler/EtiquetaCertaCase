@@ -86,9 +86,9 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "request",
-        "Type": "EtiquetaCertaCase.Core.Schema.ProductSchema.ManageSchema.Request.DeleteProductRequest",
-        "IsRequired": true
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": false
       }
     ],
     "ReturnTypes": [

@@ -708,11 +708,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joaoc\\OneDrive\\Documentos\\Project\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase.Data\\EtiquetaCertaCase.Data.csproj",
+      "projectUniqueName": "C:\\Users\\joaoc\\OneDrive\\Documentos\\GitHub\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase.Data\\EtiquetaCertaCase.Data.csproj",
       "projectName": "EtiquetaCertaCase.Data",
-      "projectPath": "C:\\Users\\joaoc\\OneDrive\\Documentos\\Project\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase.Data\\EtiquetaCertaCase.Data.csproj",
+      "projectPath": "C:\\Users\\joaoc\\OneDrive\\Documentos\\GitHub\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase.Data\\EtiquetaCertaCase.Data.csproj",
       "packagesPath": "C:\\Users\\joaoc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joaoc\\OneDrive\\Documentos\\Project\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase.Data\\obj\\",
+      "outputPath": "C:\\Users\\joaoc\\OneDrive\\Documentos\\GitHub\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -733,8 +733,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\joaoc\\OneDrive\\Documentos\\Project\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase.Domain\\EtiquetaCertaCase.Domain.csproj": {
-              "projectPath": "C:\\Users\\joaoc\\OneDrive\\Documentos\\Project\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase.Domain\\EtiquetaCertaCase.Domain.csproj"
+            "C:\\Users\\joaoc\\OneDrive\\Documentos\\GitHub\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase.Domain\\EtiquetaCertaCase.Domain.csproj": {
+              "projectPath": "C:\\Users\\joaoc\\OneDrive\\Documentos\\GitHub\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase.Domain\\EtiquetaCertaCase.Domain.csproj"
             }
           }
         }

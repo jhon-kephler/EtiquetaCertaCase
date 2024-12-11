@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3YrIdm120x0=",
+  "dgSpecHash": "1F9+pkdhe3g=",
   "success": true,
-  "projectFilePath": "C:\\Users\\joaoc\\OneDrive\\Documentos\\Project\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase.API\\EtiquetaCertaCase.API.csproj",
+  "projectFilePath": "C:\\Users\\joaoc\\OneDrive\\Documentos\\GitHub\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase.API\\EtiquetaCertaCase.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joaoc\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\joaoc\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",

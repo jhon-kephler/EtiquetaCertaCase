@@ -24,7 +24,13 @@ namespace EtiquetaCertaCase.Application.Services.ManageServices
 
             try
             {
-                await _repository.AddAsync(_mapper.Map<Product>(request));
+                var product = _mapper.Map<Product>(request);
+
+                var validate = await ValidateTextPropertie(product);
+                if(!validate.IsSuccess)
+                    return validate;
+
+                await _repository.AddAsync(product);
                 result.SetSuccess();
             }
             catch (Exception ex)
@@ -41,7 +47,21 @@ namespace EtiquetaCertaCase.Application.Services.ManageServices
 
             try
             {
-                _repository.Update(request.Id, _mapper.Map<Product>(request));
+                var product = _repository.GetById(request.Id);
+                if (product == null)
+                {
+                    result.SetError("Invalid Id");
+                    return result;
+                }
+
+                var newProduct = await ValidateUpdate(request, product);
+
+                var validate = await ValidateTextPropertie(newProduct);
+                if (!validate.IsSuccess)
+                    return validate;
+
+                _repository.Update(request.Id, newProduct);
+
                 result.SetSuccess();
             }
             catch (Exception ex)
@@ -67,6 +87,28 @@ namespace EtiquetaCertaCase.Application.Services.ManageServices
             }
 
             return result;
+        }
+
+        private async Task<Result> ValidateTextPropertie(Product product)
+        {
+            var result = new Result();
+
+            if (product.Name.Length > 100)
+                result.SetError("Name is too long");
+
+            if (product.Category.Length > 100)
+                result.SetError("Category is too long");
+
+            return result;
+        }
+
+        private async Task<Product> ValidateUpdate(UpdateProductRequest request, Product product)
+        {
+            request.Name = !String.IsNullOrEmpty(request.Name) || product.Name != request.Name? request.Name : product.Name;
+            request.Category = !String.IsNullOrEmpty(request.Category) || product.Category != request.Category ? request.Category : product.Category;
+            request.Price = product.Price != request.Price ? request.Price.Value : product.Price;
+
+            return _mapper.Map<Product>(request);
         }
     }
 }

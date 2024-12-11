@@ -1343,11 +1343,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joaoc\\OneDrive\\Documentos\\Project\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase.API\\EtiquetaCertaCase.API.csproj",
+      "projectUniqueName": "C:\\Users\\joaoc\\OneDrive\\Documentos\\GitHub\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase.API\\EtiquetaCertaCase.API.csproj",
       "projectName": "EtiquetaCertaCase.API",
-      "projectPath": "C:\\Users\\joaoc\\OneDrive\\Documentos\\Project\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase.API\\EtiquetaCertaCase.API.csproj",
+      "projectPath": "C:\\Users\\joaoc\\OneDrive\\Documentos\\GitHub\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase.API\\EtiquetaCertaCase.API.csproj",
       "packagesPath": "C:\\Users\\joaoc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joaoc\\OneDrive\\Documentos\\Project\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase.API\\obj\\",
+      "outputPath": "C:\\Users\\joaoc\\OneDrive\\Documentos\\GitHub\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1368,8 +1368,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\joaoc\\OneDrive\\Documentos\\Project\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase.Infrastructure\\EtiquetaCertaCase.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\joaoc\\OneDrive\\Documentos\\Project\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase.Infrastructure\\EtiquetaCertaCase.Infrastructure.csproj"
+            "C:\\Users\\joaoc\\OneDrive\\Documentos\\GitHub\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase.Infrastructure\\EtiquetaCertaCase.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\joaoc\\OneDrive\\Documentos\\GitHub\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase.Infrastructure\\EtiquetaCertaCase.Infrastructure.csproj"
             }
           }
         }

@@ -1,22 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\joaoc\\OneDrive\\Documentos\\Project\\EtiquetaCertaCase\\EtiquetaCertaCase\\",
+  "WorkspaceRootPath": "C:\\Users\\joaoc\\OneDrive\\Documentos\\GitHub\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{26C03076-672E-44C8-B27E-2ECC130252F4}|EtiquetaCertaCase.Application\\EtiquetaCertaCase.Application.csproj|c:\\users\\joaoc\\onedrive\\documentos\\project\\etiquetacertacase\\etiquetacertacase\\etiquetacertacase.application\\services\\searchservices\\searchproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{26C03076-672E-44C8-B27E-2ECC130252F4}|EtiquetaCertaCase.Application\\EtiquetaCertaCase.Application.csproj|c:\\users\\joaoc\\onedrive\\documentos\\github\\etiquetacertacase\\etiquetacertacase\\etiquetacertacase\\etiquetacertacase.application\\services\\manageservices\\manageproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C03076-672E-44C8-B27E-2ECC130252F4}|EtiquetaCertaCase.Application\\EtiquetaCertaCase.Application.csproj|solutionrelative:etiquetacertacase.application\\services\\manageservices\\manageproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6F341F-17E2-4007-BDB1-189E12336FF6}|EtiquetaCertaCase.Core\\EtiquetaCertaCase.Core.csproj|c:\\users\\joaoc\\onedrive\\documentos\\github\\etiquetacertacase\\etiquetacertacase\\etiquetacertacase\\etiquetacertacase.core\\schema\\productschema\\manageschema\\request\\updateproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED6F341F-17E2-4007-BDB1-189E12336FF6}|EtiquetaCertaCase.Core\\EtiquetaCertaCase.Core.csproj|solutionrelative:etiquetacertacase.core\\schema\\productschema\\manageschema\\request\\updateproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17C66A8F-56EF-4B65-BA9E-AF76E0797C9A}|EtiquetaCertaCase.Domain\\EtiquetaCertaCase.Domain.csproj|c:\\users\\joaoc\\onedrive\\documentos\\github\\etiquetacertacase\\etiquetacertacase\\etiquetacertacase\\etiquetacertacase.domain\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17C66A8F-56EF-4B65-BA9E-AF76E0797C9A}|EtiquetaCertaCase.Domain\\EtiquetaCertaCase.Domain.csproj|solutionrelative:etiquetacertacase.domain\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C03076-672E-44C8-B27E-2ECC130252F4}|EtiquetaCertaCase.Application\\EtiquetaCertaCase.Application.csproj|c:\\users\\joaoc\\onedrive\\documentos\\github\\etiquetacertacase\\etiquetacertacase\\etiquetacertacase\\etiquetacertacase.application\\services\\searchservices\\searchproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26C03076-672E-44C8-B27E-2ECC130252F4}|EtiquetaCertaCase.Application\\EtiquetaCertaCase.Application.csproj|solutionrelative:etiquetacertacase.application\\services\\searchservices\\searchproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA6E9DA6-F800-4246-ADAA-8709C3CCE98A}|EtiquetaCertaCase.API\\EtiquetaCertaCase.API.csproj|c:\\users\\joaoc\\onedrive\\documentos\\project\\etiquetacertacase\\etiquetacertacase\\etiquetacertacase.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E7054512-726A-4AC7-973B-83E004905858}|EtiquetaCertaCase.Data\\EtiquetaCertaCase.Data.csproj|c:\\users\\joaoc\\onedrive\\documentos\\github\\etiquetacertacase\\etiquetacertacase\\etiquetacertacase\\etiquetacertacase.data\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7054512-726A-4AC7-973B-83E004905858}|EtiquetaCertaCase.Data\\EtiquetaCertaCase.Data.csproj|solutionrelative:etiquetacertacase.data\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6F341F-17E2-4007-BDB1-189E12336FF6}|EtiquetaCertaCase.Core\\EtiquetaCertaCase.Core.csproj|c:\\users\\joaoc\\onedrive\\documentos\\github\\etiquetacertacase\\etiquetacertacase\\etiquetacertacase\\etiquetacertacase.core\\mapper\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED6F341F-17E2-4007-BDB1-189E12336FF6}|EtiquetaCertaCase.Core\\EtiquetaCertaCase.Core.csproj|solutionrelative:etiquetacertacase.core\\mapper\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA6E9DA6-F800-4246-ADAA-8709C3CCE98A}|EtiquetaCertaCase.API\\EtiquetaCertaCase.API.csproj|c:\\users\\joaoc\\onedrive\\documentos\\github\\etiquetacertacase\\etiquetacertacase\\etiquetacertacase\\etiquetacertacase.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA6E9DA6-F800-4246-ADAA-8709C3CCE98A}|EtiquetaCertaCase.API\\EtiquetaCertaCase.API.csproj|solutionrelative:etiquetacertacase.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8C099A5-9733-40AB-A0F5-6C9764CF5158}|EtiquetaCertaCase.Infrastructure\\EtiquetaCertaCase.Infrastructure.csproj|c:\\users\\joaoc\\onedrive\\documentos\\project\\etiquetacertacase\\etiquetacertacase\\etiquetacertacase.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8C099A5-9733-40AB-A0F5-6C9764CF5158}|EtiquetaCertaCase.Infrastructure\\EtiquetaCertaCase.Infrastructure.csproj|solutionrelative:etiquetacertacase.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA6E9DA6-F800-4246-ADAA-8709C3CCE98A}|EtiquetaCertaCase.API\\EtiquetaCertaCase.API.csproj|c:\\users\\joaoc\\onedrive\\documentos\\github\\etiquetacertacase\\etiquetacertacase\\etiquetacertacase\\etiquetacertacase.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA6E9DA6-F800-4246-ADAA-8709C3CCE98A}|EtiquetaCertaCase.API\\EtiquetaCertaCase.API.csproj|solutionrelative:etiquetacertacase.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED6F341F-17E2-4007-BDB1-189E12336FF6}|EtiquetaCertaCase.Core\\EtiquetaCertaCase.Core.csproj|c:\\users\\joaoc\\onedrive\\documentos\\project\\etiquetacertacase\\etiquetacertacase\\etiquetacertacase.core\\mapper\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED6F341F-17E2-4007-BDB1-189E12336FF6}|EtiquetaCertaCase.Core\\EtiquetaCertaCase.Core.csproj|solutionrelative:etiquetacertacase.core\\mapper\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B8C099A5-9733-40AB-A0F5-6C9764CF5158}|EtiquetaCertaCase.Infrastructure\\EtiquetaCertaCase.Infrastructure.csproj|c:\\users\\joaoc\\onedrive\\documentos\\github\\etiquetacertacase\\etiquetacertacase\\etiquetacertacase\\etiquetacertacase.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8C099A5-9733-40AB-A0F5-6C9764CF5158}|EtiquetaCertaCase.Infrastructure\\EtiquetaCertaCase.Infrastructure.csproj|solutionrelative:etiquetacertacase.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,31 +46,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "C:\\Users\\joaoc\\OneDrive\\Documentos\\Project\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase.Infrastructure\\DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\joaoc\\OneDrive\\Documentos\\GitHub\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase.Infrastructure\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "EtiquetaCertaCase.Infrastructure\\DependencyInjection.cs",
-              "ToolTip": "C:\\Users\\joaoc\\OneDrive\\Documentos\\Project\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\joaoc\\OneDrive\\Documentos\\GitHub\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase.Infrastructure\\DependencyInjection.cs",
               "RelativeToolTip": "EtiquetaCertaCase.Infrastructure\\DependencyInjection.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAArwCwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-11T20:41:22.476Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\joaoc\\OneDrive\\Documentos\\Project\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase.API\\Controllers\\ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\joaoc\\OneDrive\\Documentos\\GitHub\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase.API\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "EtiquetaCertaCase.API\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\joaoc\\OneDrive\\Documentos\\Project\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase.API\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\joaoc\\OneDrive\\Documentos\\GitHub\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase.API\\Controllers\\ProductController.cs",
               "RelativeToolTip": "EtiquetaCertaCase.API\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwCcAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-11T21:18:20.379Z",
               "IsPinned": true,
@@ -58,29 +77,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "ProductProfile.cs",
-              "DocumentMoniker": "C:\\Users\\joaoc\\OneDrive\\Documentos\\Project\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase.Core\\Mapper\\ProductProfile.cs",
+              "DocumentMoniker": "C:\\Users\\joaoc\\OneDrive\\Documentos\\GitHub\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase.Core\\Mapper\\ProductProfile.cs",
               "RelativeDocumentMoniker": "EtiquetaCertaCase.Core\\Mapper\\ProductProfile.cs",
-              "ToolTip": "C:\\Users\\joaoc\\OneDrive\\Documentos\\Project\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase.Core\\Mapper\\ProductProfile.cs",
+              "ToolTip": "C:\\Users\\joaoc\\OneDrive\\Documentos\\GitHub\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase.Core\\Mapper\\ProductProfile.cs",
               "RelativeToolTip": "EtiquetaCertaCase.Core\\Mapper\\ProductProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-11T21:21:55.511Z",
               "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SearchProductService.cs",
-              "DocumentMoniker": "C:\\Users\\joaoc\\OneDrive\\Documentos\\Project\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase.Application\\Services\\SearchServices\\SearchProductService.cs",
-              "RelativeDocumentMoniker": "EtiquetaCertaCase.Application\\Services\\SearchServices\\SearchProductService.cs",
-              "ToolTip": "C:\\Users\\joaoc\\OneDrive\\Documentos\\Project\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase.Application\\Services\\SearchServices\\SearchProductService.cs",
-              "RelativeToolTip": "EtiquetaCertaCase.Application\\Services\\SearchServices\\SearchProductService.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAowEYAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T22:33:39.277Z",
               "EditorCaption": ""
             },
             {
@@ -110,6 +116,84 @@
             {
               "$type": "Bookmark",
               "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\joaoc\\OneDrive\\Documentos\\GitHub\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase.Domain\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "EtiquetaCertaCase.Domain\\Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\joaoc\\OneDrive\\Documentos\\GitHub\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase.Domain\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "EtiquetaCertaCase.Domain\\Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T23:34:52.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateProductRequest.cs",
+              "DocumentMoniker": "C:\\Users\\joaoc\\OneDrive\\Documentos\\GitHub\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase.Core\\Schema\\ProductSchema\\ManageSchema\\Request\\UpdateProductRequest.cs",
+              "RelativeDocumentMoniker": "EtiquetaCertaCase.Core\\Schema\\ProductSchema\\ManageSchema\\Request\\UpdateProductRequest.cs",
+              "ToolTip": "C:\\Users\\joaoc\\OneDrive\\Documentos\\GitHub\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase.Core\\Schema\\ProductSchema\\ManageSchema\\Request\\UpdateProductRequest.cs",
+              "RelativeToolTip": "EtiquetaCertaCase.Core\\Schema\\ProductSchema\\ManageSchema\\Request\\UpdateProductRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T23:34:25.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\joaoc\\OneDrive\\Documentos\\GitHub\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase.Data\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "EtiquetaCertaCase.Data\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\joaoc\\OneDrive\\Documentos\\GitHub\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase.Data\\Repositories\\Repository.cs",
+              "RelativeToolTip": "EtiquetaCertaCase.Data\\Repositories\\Repository.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAApwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T23:17:41.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ManageProductService.cs",
+              "DocumentMoniker": "C:\\Users\\joaoc\\OneDrive\\Documentos\\GitHub\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase.Application\\Services\\ManageServices\\ManageProductService.cs",
+              "RelativeDocumentMoniker": "EtiquetaCertaCase.Application\\Services\\ManageServices\\ManageProductService.cs",
+              "ToolTip": "C:\\Users\\joaoc\\OneDrive\\Documentos\\GitHub\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase.Application\\Services\\ManageServices\\ManageProductService.cs",
+              "RelativeToolTip": "EtiquetaCertaCase.Application\\Services\\ManageServices\\ManageProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T23:08:27.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\joaoc\\OneDrive\\Documentos\\GitHub\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase.API\\appsettings.json",
+              "RelativeDocumentMoniker": "EtiquetaCertaCase.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\joaoc\\OneDrive\\Documentos\\GitHub\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase.API\\appsettings.json",
+              "RelativeToolTip": "EtiquetaCertaCase.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-11T23:04:53.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SearchProductService.cs",
+              "DocumentMoniker": "C:\\Users\\joaoc\\OneDrive\\Documentos\\GitHub\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase.Application\\Services\\SearchServices\\SearchProductService.cs",
+              "RelativeDocumentMoniker": "EtiquetaCertaCase.Application\\Services\\SearchServices\\SearchProductService.cs",
+              "ToolTip": "C:\\Users\\joaoc\\OneDrive\\Documentos\\GitHub\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase\\EtiquetaCertaCase.Application\\Services\\SearchServices\\SearchProductService.cs",
+              "RelativeToolTip": "EtiquetaCertaCase.Application\\Services\\SearchServices\\SearchProductService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAgwBoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T22:33:39.277Z",
+              "EditorCaption": ""
             }
           ]
         }
