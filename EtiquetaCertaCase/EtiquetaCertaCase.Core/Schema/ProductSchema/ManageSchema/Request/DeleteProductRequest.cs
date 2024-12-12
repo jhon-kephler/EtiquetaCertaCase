@@ -9,6 +9,13 @@ namespace EtiquetaCertaCase.Core.Schema.ProductSchema.ManageSchema.Request
 {
     public class DeleteProductRequest : IRequest<Result>
     {
+        public DeleteProductRequest() { }
+
+        public DeleteProductRequest(int id)
+        {
+            Id = id;
+        }
+
         public int Id { get; set; }
     }
 }

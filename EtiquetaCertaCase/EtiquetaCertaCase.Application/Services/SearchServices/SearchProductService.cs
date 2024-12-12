@@ -33,7 +33,7 @@ namespace EtiquetaCertaCase.Application.Services.SearchServices
                 }
                 
                 var productResponse = _mapper.Map<ProductResponse>(product);
-                productResponse = await ValidatePromotional(productResponse);
+                productResponse = await ValidatePromotional(productResponse, DateTime.Now.Month);
 
                 result.SetSuccess(productResponse);
             }
@@ -63,7 +63,7 @@ namespace EtiquetaCertaCase.Application.Services.SearchServices
 
                 foreach (var productResponse in productResponses)
                 {
-                    var validatedProduct = await ValidatePromotional(productResponse);
+                    var validatedProduct = await ValidatePromotional(productResponse, DateTime.Now.Month);
                     validatedProducts.Add(validatedProduct);
                 }
 
@@ -77,9 +77,9 @@ namespace EtiquetaCertaCase.Application.Services.SearchServices
             return result;
         }
 
-        private async Task<ProductResponse> ValidatePromotional(ProductResponse response)
+        public async Task<ProductResponse> ValidatePromotional(ProductResponse response, int month)
         {
-            response.Price = DateTime.Now.Month == 11 ? response.Price - (response.Price * 0.10m) : response.Price;
+            response.Price = month == 11 ? response.Price - (response.Price * 0.10m) : response.Price;
 
             return response;
         }

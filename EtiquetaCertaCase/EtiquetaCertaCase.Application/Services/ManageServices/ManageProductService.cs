@@ -31,7 +31,7 @@ namespace EtiquetaCertaCase.Application.Services.ManageServices
                     return validate;
 
                 await _repository.AddAsync(product);
-                result.SetSuccess();
+                result.SetCreate();
             }
             catch (Exception ex)
             {

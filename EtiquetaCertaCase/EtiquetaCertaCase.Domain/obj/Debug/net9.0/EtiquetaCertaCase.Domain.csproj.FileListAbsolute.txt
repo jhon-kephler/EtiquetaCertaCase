@@ -21,3 +21,15 @@ C:\Users\joaoc\OneDrive\Documentos\GitHub\EtiquetaCertaCase\EtiquetaCertaCase\Et
 C:\Users\joaoc\OneDrive\Documentos\GitHub\EtiquetaCertaCase\EtiquetaCertaCase\EtiquetaCertaCase\EtiquetaCertaCase.Domain\obj\Debug\net9.0\refint\EtiquetaCertaCase.Domain.dll
 C:\Users\joaoc\OneDrive\Documentos\GitHub\EtiquetaCertaCase\EtiquetaCertaCase\EtiquetaCertaCase\EtiquetaCertaCase.Domain\obj\Debug\net9.0\EtiquetaCertaCase.Domain.pdb
 C:\Users\joaoc\OneDrive\Documentos\GitHub\EtiquetaCertaCase\EtiquetaCertaCase\EtiquetaCertaCase\EtiquetaCertaCase.Domain\obj\Debug\net9.0\ref\EtiquetaCertaCase.Domain.dll
+C:\Users\joaoc\OneDrive\Documentos\GitHub\EtiquetaCertaCase\EtiquetaCertaCase\EtiquetaCertaCase.Domain\bin\Debug\net9.0\EtiquetaCertaCase.Domain.deps.json
+C:\Users\joaoc\OneDrive\Documentos\GitHub\EtiquetaCertaCase\EtiquetaCertaCase\EtiquetaCertaCase.Domain\bin\Debug\net9.0\EtiquetaCertaCase.Domain.dll
+C:\Users\joaoc\OneDrive\Documentos\GitHub\EtiquetaCertaCase\EtiquetaCertaCase\EtiquetaCertaCase.Domain\bin\Debug\net9.0\EtiquetaCertaCase.Domain.pdb
+C:\Users\joaoc\OneDrive\Documentos\GitHub\EtiquetaCertaCase\EtiquetaCertaCase\EtiquetaCertaCase.Domain\obj\Debug\net9.0\EtiquetaCertaCase.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaoc\OneDrive\Documentos\GitHub\EtiquetaCertaCase\EtiquetaCertaCase\EtiquetaCertaCase.Domain\obj\Debug\net9.0\EtiquetaCertaCase.Domain.AssemblyInfoInputs.cache
+C:\Users\joaoc\OneDrive\Documentos\GitHub\EtiquetaCertaCase\EtiquetaCertaCase\EtiquetaCertaCase.Domain\obj\Debug\net9.0\EtiquetaCertaCase.Domain.AssemblyInfo.cs
+C:\Users\joaoc\OneDrive\Documentos\GitHub\EtiquetaCertaCase\EtiquetaCertaCase\EtiquetaCertaCase.Domain\obj\Debug\net9.0\EtiquetaCertaCase.Domain.csproj.CoreCompileInputs.cache
+C:\Users\joaoc\OneDrive\Documentos\GitHub\EtiquetaCertaCase\EtiquetaCertaCase\EtiquetaCertaCase.Domain\obj\Debug\net9.0\EtiquetaCertaCase.Domain.sourcelink.json
+C:\Users\joaoc\OneDrive\Documentos\GitHub\EtiquetaCertaCase\EtiquetaCertaCase\EtiquetaCertaCase.Domain\obj\Debug\net9.0\EtiquetaCertaCase.Domain.dll
+C:\Users\joaoc\OneDrive\Documentos\GitHub\EtiquetaCertaCase\EtiquetaCertaCase\EtiquetaCertaCase.Domain\obj\Debug\net9.0\refint\EtiquetaCertaCase.Domain.dll
+C:\Users\joaoc\OneDrive\Documentos\GitHub\EtiquetaCertaCase\EtiquetaCertaCase\EtiquetaCertaCase.Domain\obj\Debug\net9.0\EtiquetaCertaCase.Domain.pdb
+C:\Users\joaoc\OneDrive\Documentos\GitHub\EtiquetaCertaCase\EtiquetaCertaCase\EtiquetaCertaCase.Domain\obj\Debug\net9.0\ref\EtiquetaCertaCase.Domain.dll

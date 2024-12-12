@@ -20,7 +20,6 @@ namespace EtiquetaCertaCase.Infrastructure
             services.AddRepository();
             services.AddHandler();
             services.AddServices();
-            //services.AddCommand();
 
             return services;
         }
