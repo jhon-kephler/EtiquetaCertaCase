@@ -91,4 +91,65 @@ Open project EtiquetaCertaCase.sln and run project
       Delete - /api/product/Product
       Request
               /api/product/Product?Id=0
-    ```
+  ```
+
+### Unit Tests Execution
+
+#### Running Unit Tests
+
+  - Open the terminal in the project root directory where the .csproj file for the test  project is located.
+
+  - Run the following command to execute the unit tests:
+			
+      ```bash
+		dotnet test
+      ```
+
+  - The command will:
+
+      - Build the test project and its dependencies.
+      - Automatically detect and execute all defined unit tests.
+      - Display the results in the terminal.
+
+  - Example output:
+    
+      ```bash
+        Build started...
+        Build succeeded.
+        Test run for <path>/bin/Debug/net6.0/YourProject.Tests.dll (.NETCoreApp,Version=v6.0)
+        Starting test execution, please wait...
+        Passed!  5 tests.
+        Total tests: 5. Passed: 5. Failed: 0. Skipped: 0.
+        Test Run Successful.
+      ```
+
+#### Test Project Setup
+
+Ensure the test project includes the necessary dependencies for xUnit. Add them if they are not already configured using the following commands:
+
+      dotnet add package xunit
+      dotnet add package xunit.runner.visualstudio
+
+#### Example Test Case
+
+Here is an example of a simple unit test written with xUnit:
+
+      using Xunit;
+
+          public class ProductTests
+          {
+              [Fact]
+              public void CreateProduct_ReturnsValidProduct()
+              {
+                  // Arrange
+                  var productService = new ProductService();
+
+                  // Act
+                  var product = productService.CreateProduct("Test Product", "Category", 100);
+
+                  // Assert
+                  Assert.NotNull(product);
+                  Assert.Equal("Test Product", product.Name);
+                  Assert.Equal(100, product.Price);
+              }
+          }
